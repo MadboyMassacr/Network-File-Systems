@@ -1,9 +1,5 @@
-# final-project-040
-
-
-
 # Network File System
-## Group 40
+
 
 ### Instructions:
 1. Open 1 terminal window for the naming server
